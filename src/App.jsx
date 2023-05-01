@@ -1,10 +1,10 @@
-import React from 'react';
-import Card from './components/Card';
+import React from "react";
+import UserView from "./components/UserView";
 
 
 function App() {
   return (
-    <Card />
+    <UserView />
   );
 };
 

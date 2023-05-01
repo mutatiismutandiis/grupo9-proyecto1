@@ -1,0 +1,19 @@
+.card {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    border: 50px #643A6B;
+    background-color: #B0A4A4;
+}
+
+.card h1 {
+    color: #5F264A;
+    font-size: larger; 
+}
+
+.card h2 {
+    color: #643A6B;
+    font-size: large;
+
+}
